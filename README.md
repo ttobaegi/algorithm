@@ -1,7 +1,8 @@
 # algorithm
 > algorithm (python)
 
-
+## Problems
+> [_LeetCode 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐡𝐞𝐞𝐭_](https://docs.google.com/spreadsheets/d/1KfZq_onP06UDqizkLOjraOfw2qIODDqMyd-3knUu3hA/edit#gid=196839908)
 
 ## Planning
 
