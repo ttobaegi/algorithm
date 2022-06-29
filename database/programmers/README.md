@@ -1,4 +1,5 @@
-# SQL 고득점 Kit
+# Coding Test - Database - Programmers 
+## [_SQL 고득점 Kit_](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
 |SQL 고득점 Kit 분류| 출제 빈도 | 평균 점수 | 문제 세트|
 |:-|:-|:-|:-|
@@ -8,3 +9,5 @@
 |4. `IS NULL` : 값이 없음을 의미하는 NULL. NULL을 처리하는 방법을 배워봅시다.| 낮음|보통|3 / 3|
 |**5. `JOIN` : 테이블 사이의 복잡한 관계를 파악해보아요.** |높음|낮음 |4 / 4|
 |6. `String, Date` : 숫자는 어떻게 쓰는 건지 알겠는데, 글자와 날짜는 어떻게 다루지?| 낮음|낮음|5 / 5|
+
+## 
