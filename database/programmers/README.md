@@ -13,4 +13,4 @@
 ## + ɑ
 |+ ɑ 문제| 문제출처링크| 
 |:-|:-|
-| [헤비 유저가 소유한 장소](https://github.com/ttobaegi/coding-test/blob/main/database/programmers/%ED%97%A4%EB%B9%84%20%EC%9C%A0%EC%A0%80%EA%B0%80%20%EC%86%8C%EC%9C%A0%ED%95%9C%20%EC%9E%A5%EC%86%8C.md))| [_Link_](https://programmers.co.kr/learn/courses/30/lessons/77487)|
+| [헤비 유저가 소유한 장소](https://github.com/ttobaegi/coding-test/blob/main/database/programmers/%ED%97%A4%EB%B9%84%20%EC%9C%A0%EC%A0%80%EA%B0%80%20%EC%86%8C%EC%9C%A0%ED%95%9C%20%EC%9E%A5%EC%86%8C.md)| [_Link_](https://programmers.co.kr/learn/courses/30/lessons/77487)|
