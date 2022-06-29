@@ -10,4 +10,7 @@
 |**5. `JOIN` : 테이블 사이의 복잡한 관계를 파악해보아요.** |높음|낮음 |4 / 4|
 |6. `String, Date` : 숫자는 어떻게 쓰는 건지 알겠는데, 글자와 날짜는 어떻게 다루지?| 낮음|낮음|5 / 5|
 
-## 
+## + ɑ
+|+ ɑ 문제| 문제출처링크| 
+|:-|:-|
+| [헤비 유저가 소유한 장소](https://github.com/ttobaegi/coding-test/blob/main/database/programmers/%ED%97%A4%EB%B9%84%20%EC%9C%A0%EC%A0%80%EA%B0%80%20%EC%86%8C%EC%9C%A0%ED%95%9C%20%EC%9E%A5%EC%86%8C.md)| [_Link_](https://programmers.co.kr/learn/courses/30/lessons/77487)|
