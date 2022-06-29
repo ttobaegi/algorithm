@@ -1,14 +1,18 @@
-# [_Training tasks_](https://app.codility.com/programmers/trainings/6/)
-`PostgreSQL 9.4`
-## _SqlSum : Calculate sum of elements._
+> Source : [_Training tasks in PostgreSQL 9.4_](https://app.codility.com/programmers/trainings/6/)
+
+## _SqlSum_
+
+_Calculate sum of elements._
+
 ```sql
 -- return the sum of the numbers in column v.
-
-SELECT sum(v)
-FROM elements
+SELECT sum(v) FROM elements
 ```
 
-## _SqlEventsDelta : Compute the difference between the latest and the second latest value for each event type._
+## _SqlEventsDelta_
+
+_Compute the difference between the latest and the second latest value for each event type._
+
 ```sql
 WITH CTE1 AS(
         SELECT event_type,
@@ -35,9 +39,12 @@ FROM CTE2
 WHERE row_num = 1
 ORDER BY 1
 ```
-## _SqlWorldCup : Given a list of matches in a group stage of the soccer World Cup, compute the number of points each team currently has._
-```sql
 
+## _SqlWorldCup_
+
+_Given a list of matches in a group stage of the soccer World Cup, compute the number of points each team currently has._
+
+```sql
 -- Compute the total number of points each team has scored after all the matches
 WITH HOST AS (
     SELECT host_team AS team_id,
