@@ -8,7 +8,7 @@ import numpy as np
 import os
 ```
 ## 2. 전처리
-```
+```py
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 ```
 ## 3. 통계처리
@@ -56,7 +56,7 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.naive_bayes import GaussianNB
 ```
 ### 4-3. 평가
-```
+```py
 # 수치
 from sklearn.metrics import mean_absolute_error # MAE
 from sklearn.metrics import mean_squared_error # MSE
